@@ -14,3 +14,6 @@ Average price of a home for each year it was built that has three bedrooms and t
 Average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet;
 
 What is the "view" rating for homes costing more than or equal to $350,000;
+
+Note: Due to version compatability of python 3.x and pyspark. Project is done in google collab.
+Only refer to "Home_Sales_colab.ipynb"
